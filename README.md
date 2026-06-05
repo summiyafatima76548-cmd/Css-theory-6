@@ -1,4 +1,4 @@
-# Css theory (part 6)
+# Css theory (part 6): Css Specificity
 ## Q6: What is CSS Specificity and How Does the Cascade Work?
 
 ### Introduction
